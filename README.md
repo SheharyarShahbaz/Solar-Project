@@ -63,4 +63,3 @@ solar_data/
 
 - Raw data is never modified; cleaning is done through added flag columns.
 - Daily energy totals are not calculated at this stage.
-- 
